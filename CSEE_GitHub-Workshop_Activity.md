@@ -28,11 +28,11 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:* take on me - ah has
+*Answer:* take on me - ah has 
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
-*Answer:*
+*Answer:* Kelly Forrester
 
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
