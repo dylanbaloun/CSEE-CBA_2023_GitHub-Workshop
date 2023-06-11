@@ -28,7 +28,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:* take on me - ah has
+*Answer:* take on me - ah has (Kelly F)
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
