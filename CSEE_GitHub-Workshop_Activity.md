@@ -24,6 +24,8 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:* yes
 
+*Kellys Answer*: The hot dog can identify as whatever it so chooses to
+
 **Question 3.** What is your go-to karaoke anthem?
 
 *Answer:*
