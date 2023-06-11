@@ -32,7 +32,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
-*Answer:* Kelly Forrester.2
+*Answer:* Dylan Baloun
 
 **Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
